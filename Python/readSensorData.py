@@ -3,7 +3,7 @@ import struct
 import errno
 
 # General config
-UDP_IP = "192.168.0.0"  # Change to your ip
+UDP_IP = "192.168.1.222"  # Change to your ip
 UDP_PORT = 8888
 MESSAGE_LENGTH = 13  # one sensor data frame has 13 bytes
 
